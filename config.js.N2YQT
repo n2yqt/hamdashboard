@@ -35,13 +35,12 @@ const aURL = [
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
   [
-    "RADAR LOCAL/NATIONAL", 
-    "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
+    "RADAR", 
     "https://radar.weather.gov/ridge/standard/KENX_loop.gif",
   ],
   [
     "APRS",
-    "https://dashboard.tourge.net/map.png",
+    "https://n2yqt.tourge.net/dashboard/hamdashboard/map.png",
   ],
   [
     "AURORA/NOAA D-RAP",
@@ -54,20 +53,18 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE NE/US",
+    "SATELLITE",
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/ne/EXTENT3/GOES16-NE-EXTENT3-600x600.gif",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/CONUS/EXTENT3/GOES16-CONUS-EXTENT3-625x375.gif",
   ],
   [
     "SPC 1/2/3 DAY OUTLOOK",
-    "https://www.spc.noaa.gov/partners/outlooks/state/swody1.png",
-    "https://www.spc.noaa.gov/partners/outlooks/state/swody2.png",
-    "https://www.spc.noaa.gov/partners/outlooks/state/swody3.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody1.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody2.png",
+    "https://www.spc.noaa.gov/partners/outlooks/state/images/NY_swody3.png",
   ],
   [
-    "LIGHTNING LOCAL/NATIONAL",
+    "LIGHTNING",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
-   "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
   [
     "CAMS EX17/GFL/CTOWN",
