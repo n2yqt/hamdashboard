@@ -40,7 +40,7 @@ const aIMG = [
   ],
   [
     "APRS",
-    "https://dashboard.tourge.net/map.png",
+    "https://n2yqt.tourge.net/dashboard/hamdashboard/map.png",
   ],
   [
     "AURORA/NOAA D-RAP",
