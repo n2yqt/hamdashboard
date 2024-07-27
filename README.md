@@ -6,6 +6,10 @@
 
 [BCAT N4TDX](https://www.n4tdx.org/dashboard/dashboard.html)  -- User submitted live dashboard by Steve N5NG, in use by the Brevard County (Florida) ARES Team!!!
 
+[FFX DEMS](https://kq4dne.github.io/WeatherDash/WeatherDash.html)  -- User submitted live dashboard by Sandy KQ4DNE for Emergency Management Weather
+
+[FFX ARES](https://kq4dne.github.io/hamdash/hamdash.html)  -- User submitted live dashboard by Sandy KQ4DNE for ARES
+
 ### Instructions:
 1. Just download the files from the Github repository (hamdash.html, config.js, and wheelzoom.js) and keep them together on the same folder.
 2. Open hamdash.html with any browser of your preference and you done.
@@ -20,6 +24,8 @@
 [YouTube - Live Stream with Temporarily Offline Ham Radio KM9G](https://www.youtube.com/watch?v=ohlHaSsf6B8=400s)
 
 [YouTube - French review and instructions by Jean-Benard F5SVP](https://www.youtube.com/watch?v=o9Dl9A5hqQI)
+
+[YouTube - Repaso e instrucciones en Español con Jose EA8EE](https://www.youtube.com/watch?v=3CnsfB3zNuM)
 
 ### Quick Help:
 * Double click on an image to expand to full screen.
@@ -66,6 +72,10 @@ As a workaround for these issues, I've tested running a local proxy on my comput
 If you want to upgrade to the latest version, the only file you need to update is hamdash.html (do not overwrite your config.js file.)
 
 Check updated demo!
+
+### 2024.07.24 Changelog:
+
+- Added "Discussions" to GitHub options for users to share their menu and image sources and anything else interesting -- https://github.com/VA3HDL/hamdashboard/discussions
 
 ### 2024.07.06 Changelog:
 
@@ -149,6 +159,14 @@ Tutorial contributed by Robert W3RDW
 ![KJ7T Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/KJ7T-sample.png?raw=true)
 
 ![K4HNH Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/K4HNH-sample.jpg?raw=true)
+
+![CT1ETE Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/CT1ETE-sample.jpg?raw=true)
+
+![VK3FS Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/VK3FS-sample.png?raw=true)
+
+![W5EAK Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/W5EAK-sample.jpg?raw=true)
+
+![WI5L Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/WI5L-sample.jpg?raw=true)
 
 ### Dual menu example:
 ![Dual side Menu Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/DualMenu.png?raw=true)
